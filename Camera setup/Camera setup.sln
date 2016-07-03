@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A4B9FC98-C1E4-5A58-4247-45DE2396152D}") = "Camera setup", "Assembly-CSharp.csproj", "{022D7455-D00E-A049-9FAC-1DF820E707FF}"
+EndProject
+Project("{A4B9FC98-C1E4-5A58-4247-45DE2396152D}") = "Camera setup", "Assembly-CSharp-Editor.csproj", "{509A0781-04EA-2E54-33B5-CC483AA8BAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022D7455-D00E-A049-9FAC-1DF820E707FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022D7455-D00E-A049-9FAC-1DF820E707FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022D7455-D00E-A049-9FAC-1DF820E707FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022D7455-D00E-A049-9FAC-1DF820E707FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509A0781-04EA-2E54-33B5-CC483AA8BAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509A0781-04EA-2E54-33B5-CC483AA8BAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509A0781-04EA-2E54-33B5-CC483AA8BAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509A0781-04EA-2E54-33B5-CC483AA8BAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
