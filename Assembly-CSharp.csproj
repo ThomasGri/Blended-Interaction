@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{022D7455-D00E-A049-9FAC-1DF820E707FF}</ProjectGuid>
+    <ProjectGuid>{9CDCB6C6-154D-784C-AAEE-1D22AA77AE0A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,9 +47,11 @@
   <ItemGroup>
      <Compile Include="Assets\Google-Unity\Scripts\AndroidHelper.cs" />
      <Compile Include="Assets\Google-Unity\Scripts\AndroidLifecycle.cs" />
+     <Compile Include="Assets\Skripts\TapToMove - Kopie.cs" />
+     <Compile Include="Assets\Skripts\TapToMove.cs" />
      <Compile Include="Assets\Skripts\scriptButtonQuit.cs" />
      <Compile Include="Assets\Skripts\scriptMovementTest.cs" />
-     <Compile Include="Assets\Skripts\scriptMyProjectsButton.cs" />
+     <Compile Include="Assets\Skripts\test.cs" />
      <Compile Include="Assets\TangoPrefabs\Scripts\ARCameraPostProcess.cs" />
      <Compile Include="Assets\TangoPrefabs\Scripts\TangoARPoseController.cs" />
      <Compile Include="Assets\TangoPrefabs\Scripts\TangoARScreen.cs" />

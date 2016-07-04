@@ -1,1 +1,2 @@
 C:\Users\Thomas\Documents\Camera setup\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Blended-Interaction\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
