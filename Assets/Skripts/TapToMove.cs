@@ -10,7 +10,7 @@ public class TapToMove : MonoBehaviour {
 	//alter this to change the speed of the movement of player / gameobject
 	public float duration = 50.0f;
 	//vertical position of the gameobject
-	private float yAxis;
+	//private float yAxis;
 	private float zAxis;
 
 	void Start(){

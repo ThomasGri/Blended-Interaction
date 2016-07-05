@@ -47,7 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Google-Unity\Scripts\AndroidHelper.cs" />
      <Compile Include="Assets\Google-Unity\Scripts\AndroidLifecycle.cs" />
-     <Compile Include="Assets\Skripts\TapToMove - Kopie.cs" />
+     <Compile Include="Assets\Skripts\DragToMove.cs" />
      <Compile Include="Assets\Skripts\TapToMove.cs" />
      <Compile Include="Assets\Skripts\scriptButtonQuit.cs" />
      <Compile Include="Assets\Skripts\scriptMovementTest.cs" />
