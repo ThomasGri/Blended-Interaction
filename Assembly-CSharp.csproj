@@ -49,6 +49,7 @@
      <Compile Include="Assets\Google-Unity\Scripts\AndroidLifecycle.cs" />
      <Compile Include="Assets\Skripts\DragToMove.cs" />
      <Compile Include="Assets\Skripts\TapToMove.cs" />
+     <Compile Include="Assets\Skripts\createNote.cs" />
      <Compile Include="Assets\Skripts\scriptButtonQuit.cs" />
      <Compile Include="Assets\Skripts\scriptMovementTest.cs" />
      <Compile Include="Assets\Skripts\test.cs" />
